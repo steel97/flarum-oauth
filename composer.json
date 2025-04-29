@@ -30,7 +30,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/steel97/flarum-extend"
+            "url": "https://github.com/steel97/flarum-extend.git"
         }
     ],
     "require": {
@@ -42,7 +42,7 @@
         "league/oauth2-google": "^4.0.1",
         "omines/oauth2-gitlab": "^3.3.0",
         "wohali/oauth2-discord-new": "^1.2.1",
-        "steel97/flarum-extend": "v2"
+        "steel97/flarum-extend": "dev-v2"
     },
     "replace": {
         "flarum/auth-facebook": "*",
